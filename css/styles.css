@@ -17,11 +17,12 @@
 @import "screens/find.css";
 @import "screens/more.css";
 @import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
-  height: 110vh;
+  height: 1100vh;
 }
 
 .welcome-header {
